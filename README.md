@@ -7,7 +7,7 @@ Everyone is welcome to participate in JROST activities without joining formally.
 1. Start participating: engage in JROST [communications, meetings and activities](http://jrost.org/join).
 1. When you're ready to join formally, provide information about yourself and/or your organization matching the information collected in this repository in one of these ways:
    * If you are comfortable with git, make a pull request to add your information directly to [JROSTPeople.csv](https://github.com/OpenScienceRoadmap/Participants/blob/master/JROSTPeople.csv) and [JROSTOrganizations.csv](https://github.com/OpenScienceRoadmap/Participants/blob/master/JROSTOrganizations.csv) files.
-   * [Open an issue](https://github.com/OpenScienceRoadmap/Participants/issues/new) in this repository to provide the same information.
+   * [Open an issue](https://github.com/OpenScienceRoadmap/Participants/issues/new) in this repository to provide the same information using the templates below.
    * Email necessary information to [info@jrost.org](mailto:info@jrost.org).
 1. If you are joining as an organization, please also add at least one person as a Primary Contact for that organization.
 1. JROST does not include private information like email addresses in the public information collected here, so once you have provided public information, please email [info@jrost.org](mailto:info@jrost.org) to provide your email address and make sure we know you are joining.
