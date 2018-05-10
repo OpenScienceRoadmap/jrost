@@ -12,6 +12,7 @@ Everyone is welcome to participate in JROST activities without joining formally.
 1. If you are joining as an organization, please also add at least one person as a Primary Contact for that organization.
 1. JROST does not include private information like email addresses in the public information collected here, so once you have provided public information, please email [info@jrost.org](mailto:info@jrost.org) to provide your email address and make sure we know you are joining.
 1. We will work with you to finalize your formal participation, list you in the [JROST website](http://jrost.org/participants), and include you in formal communications, meetings, and activities.
+1. If you have questions or suggestions about joining JROST, [contact us](mailto:info@jrost.org).
 
 ### Individual Information
 If you are submitting a GitHub issue or sending an email to provide your information, copy the template below and paste it into an issue or email.
