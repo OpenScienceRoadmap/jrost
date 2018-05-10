@@ -19,8 +19,8 @@ If you are submitting a GitHub issue to provide your information, copy the templ
 * Related JROST Organization (optional, unless you are a contact for an organization formally joined to JROST): 
 * Role (required; eg, Primary Contact or Participant): 
 * Title (optional; eg, Dr., Mr., Ms.): 
-* Given Name (optional if you only have one name): 
-* Family Name (optional if you only have one name): 
+* Given Name (required unless you only have one name): 
+* Family Name (required unless you only have one name): 
 * Preferred Social URL (optional; eg, full URL of your profile on Twitter, GitHub, LinkedIn, etc): 
 * Image URL (optional; URL or attached file of an image representing you): 
 * URL (optional; URL of your website): 
