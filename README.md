@@ -1,7 +1,7 @@
 # Participants
 These materials represent the people and organizations participating in the [Joint Roadmap for Open Science Tools](http://jrost.org/participants).
 
-## Join JROST
+## Join the Joint Roadmap for Open Science Tools
 Everyone is welcome to participate in JROST activities without joining formally. To join the JROST communinity formally as an individual or organization, please follow these steps:
 1. Explore [existing participants](http://jrost.org/participants) to familiarize yourself with our community and make sure we are a good fit for you. Individual participants are typically scholars, technologists, and other practitioners with deep commitments to open science. Organizations are nonprofits that develop and steward open-source tools used in open science.
 1. Start participating: engage in JROST [communications, meetings and activities](http://jrost.org/join).
@@ -17,12 +17,12 @@ Everyone is welcome to participate in JROST activities without joining formally.
 If you are submitting a GitHub issue to provide your information, copy the template below and paste it into an issue.
 ```markdown
 * Related JROST Organization (optional, unless you are a contact for an organization formally joined to JROST): 
-* Role (requried; eg, Primary Contact or Participant): 
+* Role (required; eg, Primary Contact or Participant): 
 * Title (optional; eg, Dr., Mr., Ms.): 
 * Given Name (optional if you only have one name): 
-* Family Name (required): 
+* Family Name (optional if you only have one name): 
 * Preferred Social URL (optional; eg, full URL of your profile on Twitter, GitHub, LinkedIn, etc): 
-* Image URL (optional; URL of an image representing you): 
+* Image URL (optional; URL or attached file of an image representing you): 
 * URL (optional; URL of your website): 
 ```
 
