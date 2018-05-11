@@ -1,5 +1,5 @@
 # Participants
-These materials represent the people and organizations participating in the [Joint Roadmap for Open Science Tools](http://jrost.org/participants).
+These materials represent the people and organizations participating formally in the [Joint Roadmap for Open Science Tools](http://jrost.org/participants). JROST welcomes contributions to our activiies from everyone, with our without joining formally.
 
 ## Join the Joint Roadmap for Open Science Tools
 Everyone is welcome to participate in JROST activities without joining formally. To join the JROST communinity formally as an individual or organization, please follow these steps:
