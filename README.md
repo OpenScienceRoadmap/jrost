@@ -30,6 +30,7 @@ If you are submitting a GitHub issue or sending an email to provide your informa
 ### Organizational Information
 If you are submitting a GitHub issue or sending an email to provide your information, copy the template below and paste it into an issue or email.
 ```markdown
+* Status (optional; eg, Pending, Active, Former): 
 * Full Name (required; the full name of your organization): 
 * Short Name (optional; a shorter name for your organization): 
 * URL (required; URL of organizational website): 
@@ -38,4 +39,5 @@ If you are submitting a GitHub issue or sending an email to provide your informa
 * Parent Short Name (optional; a shorter name for your parent organization): 
 * Parent URL (optional; URL of parent organizational website): 
 * Parent Logo URL (optional; URL or attached file of parent organizational logo): 
+* Wikidata ID (optional; project Wikidata ID): 
 ```
