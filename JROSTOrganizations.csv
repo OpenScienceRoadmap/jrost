@@ -1,10 +1,10 @@
-Status,Full Name (required),Short Name,URL (required),Logo URL (required),Parent Full Name,Parent Short Name,Parent URL,Parent Logo URL,Wikidata URL
+Status,Full Name (required),Short Name,URL (required),Logo URL (required),Parent Full Name,Parent Short Name,Parent URL,Parent Logo URL,Wikidata ID
 Active,Hypothesis,Hypothesis,https://web.hypothes.is/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Hypothesis.png,,,,,
 Active,Earth and Space Science Open Archive,EESOAr,https://www.essoar.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/ESSOAr.png,American Geophysical Union,AGU,https://sites.agu.org/,AGU.png,
 Active,Berkeley Institute of Data Science,BIDS,https://bids.berkeley.edu/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/BIDS.png,,,,,
 Active,bioRxiv,bioRxiv,https://www.biorxiv.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/bioRxiv.png,,,,,
 Active,Collaborative Knowledge Foundation,Coko,https://coko.foundation/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Coko.png,,,,,
-Active,Crossref,Crossref,https://www.crossref.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Crossref.png,,,,,https://www.wikidata.org/wiki/Q5188229
+Active,Crossref,Crossref,https://www.crossref.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Crossref.png,,,,,Q5188229
 Active,Dat Project,Dat Project,https://datproject.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Dat.png,Code for Science & Society,CSS,https://codeforscience.org/,,
 Active,eLife,eLife,https://elifesciences.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/eLife.png,,,,,
 Active,Jupyter Project,Jupyter Project,http://jupyter.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Jupyter.png,,,,,
@@ -13,9 +13,9 @@ Active,Public Library of Science,PLOS,https://www.plos.org/,https://github.com/O
 Active,Open Journal Systems,OJS,https://pkp.sfu.ca/ojs/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/PKP.png,Public Knowledge Project,PKP,https://pkp.sfu.ca/,,
 Active,ORCID,ORCID,https://orcid.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/ORCID.png,,,,,
 Active,Open Science Framework,OSF,https://osf.io/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/COS.png,Center for Open Science,COS,https://cos.io/,,
-Active,Zotero,Zotero,https://www.zotero.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Zotero.png,Roy Rosenzweig Center for History and New Media,RRCHNM,https://rrchnm.org/,,https://www.wikidata.org/wiki/Q226915
+Active,Zotero,Zotero,https://www.zotero.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Zotero.png,Roy Rosenzweig Center for History and New Media,RRCHNM,https://rrchnm.org/,,Q226915
 Active,Scholarly Publishing and Academic Resources Coalition,SPARC,https://sparcopen.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/SPARC.png,,,,,
 Active,Wikimedia,Wikimedia,https://www.wikimedia.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Wikimedia.png,,,,,
-Active,OpenML,OpenML,https://www.openml.org/,https://github.com/openml/OpenML/blob/master/img/OpenML-logo2.png,,,,,https://www.wikidata.org/wiki/Q52988856
+Active,OpenML,OpenML,https://www.openml.org/,https://github.com/openml/OpenML/blob/master/img/OpenML-logo2.png,,,,,Q52988856
 Active,Meta,Meta,http://meta.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Meta.png,,,,,
-Active,Joint Roadmap for Open Science Tools,JROST,http://jrost.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/JROST.png,,,,,https://www.wikidata.org/wiki/Q53729922
+Active,Joint Roadmap for Open Science Tools,JROST,http://jrost.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/JROST.png,,,,,Q53729922
