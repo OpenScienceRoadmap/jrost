@@ -1,5 +1,5 @@
 Status,Full Name (required),Short Name,URL (required),Logo URL (required),Parent Full Name,Parent Short Name,Parent URL,Parent Logo URL,Wikidata ID
-Active,Hypothesis,Hypothesis,https://web.hypothes.is/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Hypothesis.png,,,,,
+Active,Hypothesis,Hypothesis,https://web.hypothes.is/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/Hypothesis.png,,,,Q5961247
 Active,Earth and Space Science Open Archive,EESOAr,https://www.essoar.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/ESSOAr.png,American Geophysical Union,AGU,https://sites.agu.org/,AGU.png,
 Active,Berkeley Institute of Data Science,BIDS,https://bids.berkeley.edu/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/BIDS.png,,,,,
 Active,bioRxiv,bioRxiv,https://www.biorxiv.org/,https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/blob/master/assets/img/bioRxiv.png,,,,,
