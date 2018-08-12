@@ -1,7 +1,10 @@
-# Participants
+# JROST
+A repository for materials and issues related to the Joint Roadmap for Open Science Tools (JROST) itself as a community and project.
+
+## Participants
 These materials represent the people and organizations participating formally in the [Joint Roadmap for Open Science Tools](http://jrost.org/participants). Everyone is welcome to participate in JROST activities without joining formally.
 
-## Join the Joint Roadmap for Open Science Tools
+### Join the Joint Roadmap for Open Science Tools
 To join the JROST community formally as an individual or organization, please follow these steps:
 1. Explore [existing participants](http://jrost.org/participants) to familiarize yourself with our community and make sure we are a good fit for you. Individual participants are typically scholars, technologists, and other practitioners with deep commitments to open science. Organizations are nonprofits that develop and steward open-source tools used in open science.
 1. Start participating: engage in JROST [communications, meetings and activities](http://jrost.org/join).
@@ -14,7 +17,7 @@ To join the JROST community formally as an individual or organization, please fo
 1. We will work with you to finalize your formal participation, list you in the [JROST website](http://jrost.org/participants), and include you in formal communications, meetings, and activities.
 1. If you have questions or suggestions about joining JROST, [contact us](mailto:info@jrost.org).
 
-### Individual Information
+#### Individual Information
 If you are submitting a GitHub issue or sending an email to provide your information, copy the template below and paste it into an issue or email.
 ```markdown
 * Related JROST Organization (optional, unless you are a contact for an organization formally joined to JROST): 
@@ -27,7 +30,7 @@ If you are submitting a GitHub issue or sending an email to provide your informa
 * URL (optional; URL of your website): 
 ```
 
-### Organizational Information
+#### Organizational Information
 If you are submitting a GitHub issue or sending an email to provide your information, copy the template below and paste it into an issue or email.
 ```markdown
 * Status (optional; eg, Pending, Active, Former): 
