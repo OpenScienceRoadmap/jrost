@@ -3,8 +3,7 @@ Please supply the following information about the organization/people seeking to
 You can request to join either as an organization with one or more people as representatives, or as an individual participant, not representing any specific organization.
 
 # Request Type
-- [ ] Organization with representative(s)
-- [ ] Individual participant
+* Are you requesting to join as an organization with representative(s) or as an individual participant? 
 
 # Organization
 Only if joining as organization.
@@ -21,9 +20,7 @@ Only if joining as organization.
 
 # People
 Repeat for each individual participant or organizational representative.
-* Role (required)
-  * [ ] Organizational Representative
-  * [ ] Individual Participant)
+* Role (required): Is this person joining as an organizational representative or an individual participant? 
 * Title (optional; eg, Dr., Mr., Ms.): 
 * Given Name (required unless you only have one name): 
 * Family Name (required unless you only have one name): 
