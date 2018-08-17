@@ -1,4 +1,4 @@
-Please supply the following information about the organization/people seeking to join the Joint Roadmap for Open Science Tools as <a href="http://jrost.org/participants" target="_blank">official participants</a>, publically listed on the website and included in communications about Joint Roadmap activities.
+Please supply the following information about the organization/people seeking to join the Joint Roadmap for Open Science Tools as official participants, publicly listed on the website and included in communications about Joint Roadmap activities.
 
 You can request to join either as an organization with one or more people as representatives, or as an individual participant, not representing any specific organization.
 
@@ -11,7 +11,7 @@ Only if joining as organization.
 * Short Name (optional; a shorter name for the organization, such as an acronym): 
 * URL (required; URL of organizational website): 
 * Logo (required; URL or attached file of organizational logo, preferably in vector format (eg SVG, AI, EPS, etc) or at least high-resolution bitmap format (eg, PNG, GIF, JPG)): 
-* Wikidata ID (optional; organizational Wikidata ID (eg, <a href="https://www.wikidata.org/wiki/Q5188229" target="_blank">Crossref</a>)): 
+* Wikidata ID (optional; organizational Wikidata ID): 
 * Demo URL (optional; a URL of a short (video) demo of the organization's primary projects/tools): 
 * Parent Full Name (optional; the full name of parent organization): 
 * Parent Short Name (optional; a shorter name for  parent organization, such as an acronym): 
