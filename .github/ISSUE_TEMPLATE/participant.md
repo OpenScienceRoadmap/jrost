@@ -1,6 +1,8 @@
-Please supply the following information about the organization/people seeking to join the Joint Roadmap for Open Science Tools as official participants, publicly listed on the website and included in communications about Joint Roadmap activities.
+Answer the qeustions below in this template to supply information about the organization/people seeking to join the Joint Roadmap for Open Science Tools as official participants, publicly listed on the website and included in communications about Joint Roadmap activities.
 
 You can request to join either as an organization with one or more people as representatives, or as an individual participant, not representing any specific organization.
+
+You can also add any questions, suggestions, or other information to this request. Feel free to delete these directions from your request.
 
 # Request Type
 * Are you requesting to join as an organization with representative(s) or as an individual participant? 
