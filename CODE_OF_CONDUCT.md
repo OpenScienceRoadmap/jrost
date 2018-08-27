@@ -54,7 +54,7 @@ You can make reports either personally or anonymously. All reports will be handl
 
 ### Anonymous Reports
 
-File [an anonymouse report](https://docs.google.com/forms/d/e/1FAIpQLSf4-mJSRzv9CcjBGMcNpn-TTqokY7JZ1wYmTmD1ZWS0yetZlQ/viewform?usp=sf_link) at any time. We can't follow up on anonymous reports with you directly, but we will fully investigate them and take whatever action is necessary to prevent recurrences.
+File [an anonymous report](https://docs.google.com/forms/d/e/1FAIpQLSf4-mJSRzv9CcjBGMcNpn-TTqokY7JZ1wYmTmD1ZWS0yetZlQ/viewform?usp=sf_link) at any time. We can't follow up on anonymous reports with you directly, but we will fully investigate them and take whatever action is necessary to prevent recurrences.
 
 ### Personal Reports
 
