@@ -2,7 +2,7 @@
 A repository for materials and issues related to the Joint Roadmap for Open Science Tools (JROST) itself as a community and project.
 
 ## Participants
-Materials here represent the [organizations](/JROSTOrganizations.csv) and [people](/JROSTPeople.csv) participating formally in the Joint Roadmap, [listed on the website](http://jrost.org/participants), and included in communications. Joining formally is not required to participate informally in Joint Roadmap activities. Visit the website to [explore different ways to stay informed and participate informally](http://jrost.org/join).
+Materials here represent the [organizations](/participants/JROSTOrganizations.csv) and [people](/participants/JROSTPeople.csv) participating formally in the Joint Roadmap, [listed on the website](http://jrost.org/participants), and included in communications. Joining formally is not required to participate informally in Joint Roadmap activities. Visit the website to [explore different ways to stay informed and participate informally](http://jrost.org/join).
 
 ### Join the Joint Roadmap for Open Science Tools
 To join the Joint Roadmap community formally as an organization or individual, please follow these steps:
