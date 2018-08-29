@@ -1,4 +1,4 @@
-Name,Description,API Documentation ,Organization or project Wikidata ID
+Name,Description,API Documentation,Organization/Project Wikidata ID
 Hypothesis API Reference,"We’re a nonprofit on a mission to bring an open conversation over the whole web. Use Hypothesis right now to hold discussions, read socially, organize your research, and take personal notes.",https://h.readthedocs.io/en/latest/api-reference/#,Q5961247
 ORCID Member and Public API,"ORCID is a nonprofit organization helping create a world in which all who participate in research, scholarship and innovation are uniquely identified and connected to their contributions and affiliations, across disciplines, borders, and time.",https://github.com/ORCID/ORCID-Source,Q5961247
 Synapse REST API,"Synapse is an open source software platform that data scientists can use to carry out, track, and communicate their research in real time.",https://docs.synapse.org/rest,Q56328412
