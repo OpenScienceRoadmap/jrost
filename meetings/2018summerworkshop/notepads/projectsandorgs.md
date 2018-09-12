@@ -27,7 +27,7 @@ A video recording of project flashtalks is available on YouTube: https://youtu.b
 1. Apache Arrow -- Wes McKinney http://arrow.apache.org/ https://www.slideshare.net/wesm/apache-arrow-crosslanguage-development-platform-for-inmemory-data-105427919
 1. Numpy -- Jonathan Dugan (UC BIDS) org: https://bids.berkeley.edu project roadmap: https://github.com/numpy/numpy/wiki/NumPy-Roadmap  
 1. Hypothesis -- Dan Whaley . https://docs.google.com/presentation/d/1evfkjvkNxQD8bFBEIHtcDyxOsbh5xqP34yjpxccgTBE/edit#slide=id.g411b5a4f65_0_116
-1. These two flashtalks were not delivered at the workshop
+1. These two flashtalks were not delivered at the workshop, but may be recorded later and added to the video collection:
    1. DMPtool / DMProadmap, John Chodacki : https://docs.google.com/presentation/d/12f-LGydiBjvIy5f-abk5LK05LdbAaa1-fWfXHF7pTd0/edit?usp=sharing
    1. JupyterLab, Brian Granger
  
