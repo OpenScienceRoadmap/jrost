@@ -1,3 +1,4 @@
+
 [//]: # "=======================
 Answer the questions below in this template to supply information about organizations/people seeking to join the Joint Roadmap for Open Science Tools as official participants, publicly listed on the website and included in communications about Joint Roadmap activities.
 
@@ -7,6 +8,7 @@ You can also add any questions, suggestions, or other information to this reques
 
 Don't worry about this guidance: You can leave or delete it, as it won't display anyway (you can check this via Preview).
 ============================"
+
 # Request Type
 * Are you requesting to join as an organization/institution/project/community with representative(s) or as an individual participant?
 
